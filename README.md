@@ -21,7 +21,7 @@ Where:
 
 Other options:
 * -d dma_channel - Specifies DMA channel to be used (0 by default), type 255 to disable DMA transfer, CPU will be used instead
-* -b bandwidth - Specifies the bandwidth in kHz, 100 by default
+* -b bandwidth - Specifies the bandwidth in kHz, 100 by default (use -b 512 for best results.)
 * -r - Loops the playback
 
 After transmission has begun, simply tune an FM receiver to chosen frequency, You should hear the playback.
